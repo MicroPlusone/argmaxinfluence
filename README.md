@@ -1,2 +1,2 @@
 # argmaxinfluence
- Java project about  max-network-infuluence
+ Java project about  max-network-influence
